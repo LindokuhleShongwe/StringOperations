@@ -1,0 +1,15 @@
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.csproj.AssemblyReference.cache
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.AssemblyInfoInputs.cache
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.AssemblyInfo.cs
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.csproj.CoreCompileInputs.cache
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\bin\Debug\net6.0\stringOperations.exe
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\bin\Debug\net6.0\stringOperations.deps.json
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\bin\Debug\net6.0\stringOperations.runtimeconfig.json
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\bin\Debug\net6.0\stringOperations.dll
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\bin\Debug\net6.0\stringOperations.pdb
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.dll
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\refint\stringOperations.dll
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.pdb
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\stringOperations.genruntimeconfig.cache
+C:\Users\tsepo\Desktop\stringOperations\stringOperations\obj\Debug\net6.0\ref\stringOperations.dll
